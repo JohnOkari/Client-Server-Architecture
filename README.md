@@ -161,17 +161,9 @@ On the **client**:
 USE testdb;
 SELECT * FROM users;
 ```
+Expected Output:
 
-Expected output:
-
-```
-+----+-------+
-| id | name  |
-+----+-------+
-|  1 | Alice |
-|  2 | Bob   |
-+----+-------+
-```
+![Expected Output](images/image2.png)
 
 ---
 
